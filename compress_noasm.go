@@ -1,5 +1,3 @@
-// +build !amd64
-
 package blake3
 
 import "encoding/binary"
